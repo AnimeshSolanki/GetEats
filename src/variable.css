@@ -89,4 +89,27 @@
     --brd2-2p: 2px solid rgb(207, 207, 207);
 
     /* Borders End */
+    
+    /* Fonts Start */
+
+    --font-img-title: 4.4rem;
+    --font-title-sz1: 2.5rem;
+    --font-text-sz1: 3rem;
+    --font-text-sz2: 1.7rem;
+    --font-text-sz3: 1.6rem;
+
+    --font-title-weight: 450;
+
+    /* Fonts End */
+
+
+    /* Box shadows Start */
+    --box-shadow1: 0px 1.42623px 2.85 rgb(28 28 28 / 8%);
+    --box-shadow2: 0px 4px 16px rgb(28 28 28 / 10%);
+    --box-shadow3: 0px 3px 12px rgb(0 0 0 / 8%);
+    --box-shadow4: 8px 46px 50px rgb(228 233 235 / 90%);
+    --box-shadow5: 0px 4px 24px rgb(0 0 0 / 25);
+    --box-shadow6: 0px 2px 8px rgb(28 28 28 / 12%) ;
+    /* Box shadows End */
+
 }
