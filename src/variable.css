@@ -113,3 +113,14 @@
     /* Box shadows End */
 
 }
+
+@media all and (max-width: 480px) {
+    :root {
+        /* Fonts Start */
+
+        --font-title-sz1: 1.8rem;
+
+
+        /* Fonts End */
+    }
+}
