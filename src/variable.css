@@ -64,4 +64,29 @@
     --bg2-li: linear-gradient(270deg, rgb(255, 237, 239) 0%, rgba(251, 246, 247, 0) 92.47%);
 
     /* Background Colors End */
+
+    /* Borders Start */
+
+    --brd-greenish-color: rgb(36, 150, 63);
+    --brd-blueish1-color: rgb(39, 129, 231);
+    --brd-blueish2-color: rgb(37, 111, 239);
+    
+    --brd-redish-color: 1px solid rgb(239, 79, 95);
+
+    --brd-redish-color-2p: 2px solid rgb(239, 79, 95);
+
+    --brd1-color: rgb(207, 207, 207);
+    --brd2-color: rgb(206, 206, 206);
+    
+    --brd1: 0.1rem solid rgb(207, 207, 207);
+    --brd2: 1px solid rgb(207, 207, 207);
+    --brd3: 1px solid rgb(244, 244, 244);
+    --brd4: 1px solid rgb(232, 232, 232);
+    --brd5: 1px solid rgb(105, 105, 105);
+    --brd6: 1px solid rgb(156, 156, 156);
+    --brd7: 1px solid rgb(248, 248, 248);
+
+    --brd2-2p: 2px solid rgb(207, 207, 207);
+
+    /* Borders End */
 }
