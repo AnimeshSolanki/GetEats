@@ -10,3 +10,9 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+@media all and (max-width: 768px) {
+    .chooseTypeCards {
+        width: 90%;
+    }
+}
