@@ -1,0 +1,4 @@
+.bodySize {
+    width: 70%;
+    margin: auto;
+}
