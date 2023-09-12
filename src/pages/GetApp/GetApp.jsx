@@ -1,10 +1,10 @@
-import css from './GetTheApp.module.css'
+import css from './GetApp.module.css'
 
 import Navbar2 from '../../components/Navbars/NavigationBar2/NavigationBar2'
-import GetTheAppComp from '../../components/HomeComponents/GetTheApp/GetTheApp'
+import GetAppComp from '../../components/HomeComponents/GetTheApp/GetApp'
 import Footer from '../../components/Footer/Footer'
 
-const GetTheApp = () => {
+const GetApp = () => {
   return <div className={css.outerDiv}>
     <div className={css.innerDiv}>
         <Navbar2 />
@@ -14,4 +14,4 @@ const GetTheApp = () => {
   </div>
 }
 
-export default GetTheApp
+export default GetApp
